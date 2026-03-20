@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": "d722",
+      "firstName": "Shreyash",
+      "lastName": "B K",
+      "email": "shreyash@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "d546",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": "bb82",
+      "firstName": "Shreyash",
+      "lastName": "B K",
+      "email": "hello@gmail.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "d5bb",
+      "firstName": "Shreyash",
+      "lastName": "B K",
+      "email": "bkshreyash@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "95fc",
+      "firstName": "Shreyash",
+      "lastName": "B K",
+      "email": "shreyashbk@gmail.com",
+      "password": "shreyash",
+      "confirmPassword": "shreyash"
+    }
+  ],
+  "courses": [
+    {
+      "id": "f024",
+      "courseName": "MERN",
+      "trainerName": "Prashanth",
+      "courseDuration": "4",
+      "courseDescription": "Front end and Back End"
+    },
+    {
+      "id": "81b5",
+      "courseName": "Front End3",
+      "trainerName": "Sharanya3",
+      "courseDuration": "43",
+      "courseDescription": "Front End3"
+    },
+    {
+      "id": "5e00",
+      "courseName": "MERN",
+      "trainerName": "Sharanya",
+      "courseDuration": "4",
+      "courseDescription": "Front End"
+    },
+    {
+      "id": "5073",
+      "courseName": "Front End",
+      "trainerName": "Sharanya",
+      "courseDuration": "4",
+      "courseDescription": "Front End"
+    },
+    {
+      "id": "a5e1",
+      "courseName": "MERN",
+      "trainerName": "Sharanya",
+      "courseDuration": "2",
+      "courseDescription": "Front End"
+    },
+    {
+      "id": "8f4f",
+      "courseName": "MERN",
+      "trainerName": "Sharanya",
+      "courseDuration": "3",
+      "courseDescription": "Front End"
+    },
+    {
+      "id": "adfd",
+      "courseName": "MERN",
+      "trainerName": "Sharanya",
+      "courseDuration": "5",
+      "courseDescription": "Front End"
+    },
+    {
+      "id": "d169",
+      "courseName": "MERN",
+      "trainerName": "Sharanya",
+      "courseDuration": "6",
+      "courseDescription": "Front End"
+    },
+    {
+      "courseName": "MERN234",
+      "trainerName": "Prashanth24",
+      "courseDuration": "424",
+      "courseDescription": "Front end and Back End24",
+      "id": "d786",
+      "category": "Marketing",
+      "price": "100004",
+      "level": "Intermediate",
+      "mode": "Offline",
+      "startDate": "2026-02-20",
+      "endDate": "2026-02-22",
+      "certificateProvided": false
+    },
+    {
+      "id": "a892",
+      "courseName": "MERN4",
+      "trainerName": "Prashanth4",
+      "courseDuration": "44",
+      "courseDescription": "Project4",
+      "category": "Development",
+      "price": "20000",
+      "level": "Advanced",
+      "mode": "Offline",
+      "startDate": "2026-02-17",
+      "endDate": "2026-02-20",
+      "certificateProvided": true
+    }
+  ]
+}
